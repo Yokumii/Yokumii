@@ -11,6 +11,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [数字逻辑与数字系统相关记背知识点](https://yokimii.github.io/blog/2025/01/08/%E6%95%B0%E5%AD%97%E9%80%BB%E8%BE%91%E4%B8%8E%E6%95%B0%E5%AD%97%E7%B3%BB%E7%BB%9F%E7%9B%B8%E5%85%B3%E8%AE%B0%E8%83%8C%E7%9F%A5%E8%AF%86%E7%82%B9/)
+- [图的染色问题](https://yokimii.github.io/blog/2025/01/07/%E5%9B%BE%E7%9A%84%E6%9F%93%E8%89%B2%E9%97%AE%E9%A2%98/)
+- [CSAPP Exercises](https://yokimii.github.io/blog/2025/01/06/CSAPP%20Exercises/)
+- [CSAPP 16-io4](https://yokimii.github.io/blog/2025/01/05/CSAPP%2016-io4/)
+- [CSAPP 14-ecf-procs](https://yokimii.github.io/blog/2025/01/05/CSAPP%2014-ecf-procs/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
