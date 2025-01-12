@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yokumi</h1>
-<h3 align="center">A student at School of Computer Science SCS, Beijing University of Post and Telecommunication, a.k.a. BUPT</h3>
+<h3 align="center">A student at School of Computer Science SCS, Beijing University of Posts and Telecommunications, a.k.a. BUPT</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yokumii&label=Profile%20views&color=0e75b6&style=flat" alt="yokumii" /> </p>
 
