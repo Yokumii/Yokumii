@@ -11,11 +11,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [计网学习笔记&lpar;1&rpar;：引言](https://yokumii.github.io/blog/2025/02/27/%E8%AE%A1%E7%BD%91%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0(1)%EF%BC%9A%E5%BC%95%E8%A8%80/)
+- [计组学习笔记&lpar;1&rpar;：计算机概述](https://yokumii.github.io/blog/2025/02/27/%E8%AE%A1%E7%BB%84%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0(1)%EF%BC%9A%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%A6%82%E8%BF%B0/)
+- [RAG（Retrieval-augmented generation）个人学习笔记](https://yokumii.github.io/blog/2025/02/26/RAG%EF%BC%88Retrieval-augmented%20generation%EF%BC%89%E4%B8%AA%E4%BA%BA%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/)
 - [NSFC爬虫练习](https://yokumii.github.io/blog/2025/01/22/NSFC%E7%88%AC%E8%99%AB%E7%BB%83%E4%B9%A0/)
 - [数字逻辑与数字系统相关记背知识点](https://yokumii.github.io/blog/2025/01/08/%E6%95%B0%E5%AD%97%E9%80%BB%E8%BE%91%E4%B8%8E%E6%95%B0%E5%AD%97%E7%B3%BB%E7%BB%9F%E7%9B%B8%E5%85%B3%E8%AE%B0%E8%83%8C%E7%9F%A5%E8%AF%86%E7%82%B9/)
-- [图的染色问题](https://yokumii.github.io/blog/2025/01/07/%E5%9B%BE%E7%9A%84%E6%9F%93%E8%89%B2%E9%97%AE%E9%A2%98/)
-- [CSAPP Exercises](https://yokumii.github.io/blog/2025/01/06/CSAPP%20Exercises/)
-- [CSAPP 16-io4](https://yokumii.github.io/blog/2025/01/05/CSAPP%2016-io4/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
