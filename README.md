@@ -11,11 +11,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [简述MCP&lpar;Model Context Protocols&rpar;](https://yokumii.github.io/blog/2025/04/04/%E7%AE%80%E8%BF%B0MCP(Model%20Context%20Protocols)/)
 - [计网学习笔记&lpar;4&rpar;：介质访问控制子层](https://yokumii.github.io/blog/2025/04/04/%E8%AE%A1%E7%BD%91%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0(4)%EF%BC%9A%E4%BB%8B%E8%B4%A8%E8%AE%BF%E9%97%AE%E6%8E%A7%E5%88%B6%E5%AD%90%E5%B1%82/)
 - [计组学习笔记&lpar;5&rpar;：指令系统](https://yokumii.github.io/blog/2025/04/04/%E8%AE%A1%E7%BB%84%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0(5)%EF%BC%9A%E6%8C%87%E4%BB%A4%E7%B3%BB%E7%BB%9F/)
 - [计组学习笔记&lpar;4&rpar;：存储系统I](https://yokumii.github.io/blog/2025/04/03/%E8%AE%A1%E7%BB%84%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0(4)%EF%BC%9A%E5%AD%98%E5%82%A8%E7%B3%BB%E7%BB%9FI/)
 - [阿里云ESC + V2RayA实现科学上网](https://yokumii.github.io/blog/2025/04/03/%E9%98%BF%E9%87%8C%E4%BA%91ESC%20+%20V2RayA%E5%AE%9E%E7%8E%B0%E7%A7%91%E5%AD%A6%E4%B8%8A%E7%BD%91/)
-- [形式语言与自动机学习笔记&lpar;2&rpar;](https://yokumii.github.io/blog/2025/03/31/%E5%BD%A2%E5%BC%8F%E8%AF%AD%E8%A8%80%E4%B8%8E%E8%87%AA%E5%8A%A8%E6%9C%BA%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0(2)/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
