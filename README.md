@@ -11,7 +11,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [计算机网络 - 半期总结](https://yokumii.github.io/blog/2025/04/19/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C%20-%20%E5%8D%8A%E6%9C%9F%E6%80%BB%E7%BB%93/)
+- [计算机网络 - 期中复习](https://yokumii.github.io/blog/2025/04/25/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C%20-%20%E6%9C%9F%E4%B8%AD%E5%A4%8D%E4%B9%A0/)
 - [计组学习笔记&lpar;6&rpar;：中央处理器I](https://yokumii.github.io/blog/2025/04/13/%E8%AE%A1%E7%BB%84%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0(6)%EF%BC%9A%E4%B8%AD%E5%A4%AE%E5%A4%84%E7%90%86%E5%99%A8I/)
 - [一些有关Game Theory&lpar;博弈论&rpar;的学习记录](https://yokumii.github.io/blog/2025/04/05/%E4%B8%80%E4%BA%9B%E6%9C%89%E5%85%B3Game%20Theory(%E5%8D%9A%E5%BC%88%E8%AE%BA)%E7%9A%84%E5%AD%A6%E4%B9%A0%E8%AE%B0%E5%BD%95/)
 - [简述MCP&lpar;Model Context Protocols&rpar;](https://yokumii.github.io/blog/2025/04/04/%E7%AE%80%E8%BF%B0MCP(Model%20Context%20Protocols)/)
