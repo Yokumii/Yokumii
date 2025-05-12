@@ -7,7 +7,7 @@
 
 - 📝 I regularly write articles on [https://blog.yokumi.cn/](https://blog.yokumi.cn/)
 
-- 📫 How to reach me **m2845687016@gmail.com**
+- 📫 How to reach me [m2845687016@gmail.com](mailto:m2845687016@gmail.com)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
