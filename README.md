@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yokumii" alt="yokumii" /></a> </p>
 
-- 📝 I regularly write articles on [https://yokumii.github.io/blog/](https://yokumii.github.io/blog/)
+- 📝 I regularly write articles on [https://blog.yokumi.cn/](https://blog.yokumi.cn/)
 
 - 📫 How to reach me **m2845687016@gmail.com**
 
