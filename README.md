@@ -20,7 +20,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://yokumii.github.io/blog/atom.xml" target="blank">
+<a href="https://blog.yokumi.cn/atom.xml" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="RSS" height="30" width="40" /></a>
 </p>
 
