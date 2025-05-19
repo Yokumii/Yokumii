@@ -11,11 +11,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [如何在 Hexo 博客中插入伪代码](https://blog.yokumi.cn/2025/05/19/%E5%A6%82%E4%BD%95%E5%9C%A8%20Hexo%20%E5%8D%9A%E5%AE%A2%E4%B8%AD%E6%8F%92%E5%85%A5%E4%BC%AA%E4%BB%A3%E7%A0%81/)
 - [使用jsDelivr加速Github图床](https://blog.yokumi.cn/2025/05/18/%E4%BD%BF%E7%94%A8jsDelivr%E5%8A%A0%E9%80%9FGithub%E5%9B%BE%E5%BA%8A/)
 - [形式语言与自动机学习笔记&lpar;3&rpar;：上下文无关文法和下推自动机](https://blog.yokumi.cn/2025/05/18/%E5%BD%A2%E5%BC%8F%E8%AF%AD%E8%A8%80%E4%B8%8E%E8%87%AA%E5%8A%A8%E6%9C%BA%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0(3)%EF%BC%9A%E4%B8%8A%E4%B8%8B%E6%96%87%E6%97%A0%E5%85%B3%E6%96%87%E6%B3%95%E5%92%8C%E4%B8%8B%E6%8E%A8%E8%87%AA%E5%8A%A8%E6%9C%BA/)
 - [Git微操自救指南](https://blog.yokumi.cn/2025/05/17/Git%E5%BE%AE%E6%93%8D%E8%87%AA%E6%95%91%E6%8C%87%E5%8D%97/)
 - [本站说明](https://blog.yokumi.cn/2025/05/12/%E6%9C%AC%E7%AB%99%E8%AF%B4%E6%98%8E/)
-- [Hexo博客的一些进阶配置](https://blog.yokumi.cn/2025/05/11/Hexo%E5%8D%9A%E5%AE%A2%E7%9A%84%E4%B8%80%E4%BA%9B%E8%BF%9B%E9%98%B6%E9%85%8D%E7%BD%AE/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
