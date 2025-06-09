@@ -11,11 +11,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [漫游计算机网络之设备篇](https://blog.yokumi.cn/2025/06/09/%E6%BC%AB%E6%B8%B8%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C%E4%B9%8B%E8%AE%BE%E5%A4%87%E7%AF%87/)
+- [漫游计算机网络之技术篇](https://blog.yokumi.cn/2025/06/09/%E6%BC%AB%E6%B8%B8%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C%E4%B9%8B%E6%8A%80%E6%9C%AF%E7%AF%87/)
+- [漫游计算机网络之协议篇](https://blog.yokumi.cn/2025/06/09/%E6%BC%AB%E6%B8%B8%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C%E4%B9%8B%E5%8D%8F%E8%AE%AE%E7%AF%87/)
 - [形式语言与自动机学习笔记&lpar;4&rpar;：图灵机](https://blog.yokumi.cn/2025/06/07/%E5%BD%A2%E5%BC%8F%E8%AF%AD%E8%A8%80%E4%B8%8E%E8%87%AA%E5%8A%A8%E6%9C%BA%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0(4)%EF%BC%9A%E5%9B%BE%E7%81%B5%E6%9C%BA/)
 - [TCP 流量控制之：什么是糊涂窗口综合症](https://blog.yokumi.cn/2025/06/06/TCP%20%E6%B5%81%E9%87%8F%E6%8E%A7%E5%88%B6%E4%B9%8B%EF%BC%9A%E4%BB%80%E4%B9%88%E6%98%AF%E7%B3%8A%E6%B6%82%E7%AA%97%E5%8F%A3%E7%BB%BC%E5%90%88%E7%97%87/)
-- [关于计网课设 —— DNS Relay Server 的一些记录](https://blog.yokumi.cn/2025/06/01/%E5%85%B3%E4%BA%8E%E8%AE%A1%E7%BD%91%E8%AF%BE%E8%AE%BE%20%E2%80%94%E2%80%94%20DNS%20Relay%20Server%20%E7%9A%84%E4%B8%80%E4%BA%9B%E8%AE%B0%E5%BD%95/)
-- [计算机网络 - 期末复习](https://blog.yokumi.cn/2025/06/01/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C%20-%20%E6%9C%9F%E6%9C%AB%E5%A4%8D%E4%B9%A0/)
-- [计网学习笔记&lpar;7&rpar;：应用层](https://blog.yokumi.cn/2025/06/01/%E8%AE%A1%E7%BD%91%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0(7)%EF%BC%9A%E5%BA%94%E7%94%A8%E5%B1%82/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
