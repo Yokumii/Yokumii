@@ -11,11 +11,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [毛概速通](https://blog.yokumi.cn/2025/06/12/%E6%AF%9B%E6%A6%82%E9%80%9F%E9%80%9A/)
 - [漫游计算机网络之情景篇](https://blog.yokumi.cn/2025/06/10/%E6%BC%AB%E6%B8%B8%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C%E4%B9%8B%E6%83%85%E6%99%AF%E7%AF%87/)
 - [漫游计算机网络之设备篇](https://blog.yokumi.cn/2025/06/09/%E6%BC%AB%E6%B8%B8%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C%E4%B9%8B%E8%AE%BE%E5%A4%87%E7%AF%87/)
 - [漫游计算机网络之技术篇](https://blog.yokumi.cn/2025/06/09/%E6%BC%AB%E6%B8%B8%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C%E4%B9%8B%E6%8A%80%E6%9C%AF%E7%AF%87/)
 - [漫游计算机网络之协议篇](https://blog.yokumi.cn/2025/06/09/%E6%BC%AB%E6%B8%B8%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C%E4%B9%8B%E5%8D%8F%E8%AE%AE%E7%AF%87/)
-- [形式语言与自动机学习笔记&lpar;4&rpar;：图灵机](https://blog.yokumi.cn/2025/06/07/%E5%BD%A2%E5%BC%8F%E8%AF%AD%E8%A8%80%E4%B8%8E%E8%87%AA%E5%8A%A8%E6%9C%BA%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0(4)%EF%BC%9A%E5%9B%BE%E7%81%B5%E6%9C%BA/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
