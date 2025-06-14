@@ -11,11 +11,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [计算机组成原理 - 期末复习](https://blog.yokumi.cn/2025/06/13/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86%20-%20%E6%9C%9F%E6%9C%AB%E5%A4%8D%E4%B9%A0/)
 - [计组学习笔记&lpar;10&rpar;：外围设备](https://blog.yokumi.cn/2025/06/12/%E8%AE%A1%E7%BB%84%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0(10)%EF%BC%9A%E5%A4%96%E5%9B%B4%E8%AE%BE%E5%A4%87/)
 - [计组学习笔记&lpar;9&rpar;：总线系统](https://blog.yokumi.cn/2025/06/12/%E8%AE%A1%E7%BB%84%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0(9)%EF%BC%9A%E6%80%BB%E7%BA%BF%E7%B3%BB%E7%BB%9F/)
 - [毛概速通](https://blog.yokumi.cn/2025/06/12/%E6%AF%9B%E6%A6%82%E9%80%9F%E9%80%9A/)
 - [漫游计算机网络之情景篇](https://blog.yokumi.cn/2025/06/10/%E6%BC%AB%E6%B8%B8%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C%E4%B9%8B%E6%83%85%E6%99%AF%E7%AF%87/)
-- [漫游计算机网络之设备篇](https://blog.yokumi.cn/2025/06/09/%E6%BC%AB%E6%B8%B8%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C%E4%B9%8B%E8%AE%BE%E5%A4%87%E7%AF%87/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
