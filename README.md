@@ -11,7 +11,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [从零开始的 MacBook 配置指南](https://blog.yokumi.cn/2025/06/19/%E4%BB%8E%E9%9B%B6%E5%BC%80%E5%A7%8B%E7%9A%84%20MacBook%20%E9%85%8D%E7%BD%AE%E6%8C%87%E5%8D%97/)
+- [从零开始的MacBook配置指南](https://blog.yokumi.cn/2025/06/19/%E4%BB%8E%E9%9B%B6%E5%BC%80%E5%A7%8B%E7%9A%84MacBook%E9%85%8D%E7%BD%AE%E6%8C%87%E5%8D%97/)
 - [毛概背诵速通](https://blog.yokumi.cn/2025/06/17/%E6%AF%9B%E6%A6%82%E8%83%8C%E8%AF%B5%E9%80%9F%E9%80%9A/)
 - [计算机组成原理之期末复习](https://blog.yokumi.cn/2025/06/13/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86%E4%B9%8B%E6%9C%9F%E6%9C%AB%E5%A4%8D%E4%B9%A0/)
 - [计组学习笔记&lpar;10&rpar;：外围设备](https://blog.yokumi.cn/2025/06/12/%E8%AE%A1%E7%BB%84%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0(10)%EF%BC%9A%E5%A4%96%E5%9B%B4%E8%AE%BE%E5%A4%87/)
