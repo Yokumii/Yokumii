@@ -11,11 +11,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [《计算机网络》笔记合集](https://blog.yokumi.cn/2025/06/26/%E3%80%8A%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C%E3%80%8B%E7%AC%94%E8%AE%B0%E5%90%88%E9%9B%86/)
+- [《形式语言与自动机》笔记合集](https://blog.yokumi.cn/2025/06/26/%E3%80%8A%E5%BD%A2%E5%BC%8F%E8%AF%AD%E8%A8%80%E4%B8%8E%E8%87%AA%E5%8A%A8%E6%9C%BA%E3%80%8B%E7%AC%94%E8%AE%B0%E5%90%88%E9%9B%86/)
 - [形式语言与自动机学习笔记&lpar;6&rpar;：期末复习](https://blog.yokumi.cn/2025/06/26/%E5%BD%A2%E5%BC%8F%E8%AF%AD%E8%A8%80%E4%B8%8E%E8%87%AA%E5%8A%A8%E6%9C%BA%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0(6)%EF%BC%9A%E6%9C%9F%E6%9C%AB%E5%A4%8D%E4%B9%A0/)
 - [形式语言与自动机学习笔记&lpar;5&rpar;：往年题部分个人解析](https://blog.yokumi.cn/2025/06/24/%E5%BD%A2%E5%BC%8F%E8%AF%AD%E8%A8%80%E4%B8%8E%E8%87%AA%E5%8A%A8%E6%9C%BA%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0(5)%EF%BC%9A%E5%BE%80%E5%B9%B4%E9%A2%98%E9%83%A8%E5%88%86%E4%B8%AA%E4%BA%BA%E8%A7%A3%E6%9E%90/)
 - [从零开始的MacBook配置指南](https://blog.yokumi.cn/2025/06/19/%E4%BB%8E%E9%9B%B6%E5%BC%80%E5%A7%8B%E7%9A%84MacBook%E9%85%8D%E7%BD%AE%E6%8C%87%E5%8D%97/)
-- [毛概背诵速通](https://blog.yokumi.cn/2025/06/17/%E6%AF%9B%E6%A6%82%E8%83%8C%E8%AF%B5%E9%80%9F%E9%80%9A/)
-- [计算机组成原理之期末复习](https://blog.yokumi.cn/2025/06/13/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86%E4%B9%8B%E6%9C%9F%E6%9C%AB%E5%A4%8D%E4%B9%A0/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
