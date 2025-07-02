@@ -11,11 +11,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [一些有关文本摘要技术的记录](https://blog.yokumi.cn/2025/07/01/%E4%B8%80%E4%BA%9B%E6%9C%89%E5%85%B3%E6%96%87%E6%9C%AC%E6%91%98%E8%A6%81%E6%8A%80%E6%9C%AF%E7%9A%84%E8%AE%B0%E5%BD%95/)
+- [【PRML】如何简单易懂地理解变分推断（Variational Inference）](https://blog.yokumi.cn/2025/07/02/%E3%80%90PRML%E3%80%91%E5%A6%82%E4%BD%95%E7%AE%80%E5%8D%95%E6%98%93%E6%87%82%E5%9C%B0%E7%90%86%E8%A7%A3%E5%8F%98%E5%88%86%E6%8E%A8%E6%96%AD%EF%BC%88Variational%20Inference%EF%BC%89/)
+- [一些有关文本摘要技术的学习记录](https://blog.yokumi.cn/2025/07/01/%E4%B8%80%E4%BA%9B%E6%9C%89%E5%85%B3%E6%96%87%E6%9C%AC%E6%91%98%E8%A6%81%E6%8A%80%E6%9C%AF%E7%9A%84%E5%AD%A6%E4%B9%A0%E8%AE%B0%E5%BD%95/)
 - [《计算机组成原理》笔记合集](https://blog.yokumi.cn/2025/06/26/%E3%80%8A%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86%E3%80%8B%E7%AC%94%E8%AE%B0%E5%90%88%E9%9B%86/)
 - [《计算机网络》笔记合集](https://blog.yokumi.cn/2025/06/26/%E3%80%8A%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C%E3%80%8B%E7%AC%94%E8%AE%B0%E5%90%88%E9%9B%86/)
 - [《形式语言与自动机》笔记合集](https://blog.yokumi.cn/2025/06/26/%E3%80%8A%E5%BD%A2%E5%BC%8F%E8%AF%AD%E8%A8%80%E4%B8%8E%E8%87%AA%E5%8A%A8%E6%9C%BA%E3%80%8B%E7%AC%94%E8%AE%B0%E5%90%88%E9%9B%86/)
-- [形式语言与自动机学习笔记&lpar;6&rpar;：期末复习](https://blog.yokumi.cn/2025/06/26/%E5%BD%A2%E5%BC%8F%E8%AF%AD%E8%A8%80%E4%B8%8E%E8%87%AA%E5%8A%A8%E6%9C%BA%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0(6)%EF%BC%9A%E6%9C%9F%E6%9C%AB%E5%A4%8D%E4%B9%A0/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
