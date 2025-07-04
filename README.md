@@ -12,8 +12,8 @@
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 - [博客美化记录](https://blog.yokumi.cn/2025/07/03/%E5%8D%9A%E5%AE%A2%E7%BE%8E%E5%8C%96%E8%AE%B0%E5%BD%95/)
+- [拥塞控制算法的前世与今生](https://blog.yokumi.cn/2025/07/03/%E6%8B%A5%E5%A1%9E%E6%8E%A7%E5%88%B6%E7%AE%97%E6%B3%95%E7%9A%84%E5%89%8D%E4%B8%96%E4%B8%8E%E4%BB%8A%E7%94%9F/)
 - [【PRML】如何简单易懂地理解变分推断（Variational Inference）](https://blog.yokumi.cn/2025/07/02/%E3%80%90PRML%E3%80%91%E5%A6%82%E4%BD%95%E7%AE%80%E5%8D%95%E6%98%93%E6%87%82%E5%9C%B0%E7%90%86%E8%A7%A3%E5%8F%98%E5%88%86%E6%8E%A8%E6%96%AD%EF%BC%88Variational%20Inference%EF%BC%89/)
-- [一些有关文本摘要技术的学习记录](https://blog.yokumi.cn/2025/07/01/%E4%B8%80%E4%BA%9B%E6%9C%89%E5%85%B3%E6%96%87%E6%9C%AC%E6%91%98%E8%A6%81%E6%8A%80%E6%9C%AF%E7%9A%84%E5%AD%A6%E4%B9%A0%E8%AE%B0%E5%BD%95/)
 - [博客目录一级标题跳转错误问题的修复](https://blog.yokumi.cn/2025/07/01/%E5%8D%9A%E5%AE%A2%E7%9B%AE%E5%BD%95%E4%B8%80%E7%BA%A7%E6%A0%87%E9%A2%98%E8%B7%B3%E8%BD%AC%E9%94%99%E8%AF%AF%E9%97%AE%E9%A2%98%E7%9A%84%E4%BF%AE%E5%A4%8D/)
 - [《计算机组成原理》笔记合集](https://blog.yokumi.cn/2025/06/26/%E3%80%8A%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86%E3%80%8B%E7%AC%94%E8%AE%B0%E5%90%88%E9%9B%86/)
 <!-- BLOG-POST-LIST:END -->
