@@ -11,11 +11,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [【论文阅读笔记】RDMA Transports in Datacenter Networks：Survey](https://blog.yokumi.cn/2025/07/11/%E3%80%90%E8%AE%BA%E6%96%87%E9%98%85%E8%AF%BB%E7%AC%94%E8%AE%B0%E3%80%91RDMA%20Transports%20in%20Datacenter%20Networks%EF%BC%9ASurvey/)
 - [Game Theory X Reinforcement Learning&lpar;From Scratch&rpar;](https://blog.yokumi.cn/2025/07/07/Game%20Theory%20X%20Reinforcement%20Learning(From%20Scratch)/)
 - [Deriving the Bellman Equation](https://blog.yokumi.cn/2025/07/04/Deriving%20the%20Bellman%20Equation/)
 - [博客美化记录](https://blog.yokumi.cn/2025/07/03/%E5%8D%9A%E5%AE%A2%E7%BE%8E%E5%8C%96%E8%AE%B0%E5%BD%95/)
 - [TCP拥塞控制算法的前世与今生](https://blog.yokumi.cn/2025/07/03/TCP%E6%8B%A5%E5%A1%9E%E6%8E%A7%E5%88%B6%E7%AE%97%E6%B3%95%E7%9A%84%E5%89%8D%E4%B8%96%E4%B8%8E%E4%BB%8A%E7%94%9F/)
-- [【PRML】如何简单易懂地理解变分推断（Variational Inference）](https://blog.yokumi.cn/2025/07/02/%E3%80%90PRML%E3%80%91%E5%A6%82%E4%BD%95%E7%AE%80%E5%8D%95%E6%98%93%E6%87%82%E5%9C%B0%E7%90%86%E8%A7%A3%E5%8F%98%E5%88%86%E6%8E%A8%E6%96%AD%EF%BC%88Variational%20Inference%EF%BC%89/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
