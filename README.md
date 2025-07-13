@@ -11,11 +11,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [尝试在 Linux 上驯服 NS3 的记录](https://blog.yokumi.cn/2025/07/12/%E5%B0%9D%E8%AF%95%E5%9C%A8%20Linux%20%E4%B8%8A%E9%A9%AF%E6%9C%8D%20NS3%20%E7%9A%84%E8%AE%B0%E5%BD%95/)
 - [WSL2 折腾记录](https://blog.yokumi.cn/2025/07/12/WSL2%20%E6%8A%98%E8%85%BE%E8%AE%B0%E5%BD%95/)
 - [【论文阅读笔记】RDMA Transports in Datacenter Networks：Survey](https://blog.yokumi.cn/2025/07/11/%E3%80%90%E8%AE%BA%E6%96%87%E9%98%85%E8%AF%BB%E7%AC%94%E8%AE%B0%E3%80%91RDMA%20Transports%20in%20Datacenter%20Networks%EF%BC%9ASurvey/)
 - [Game Theory X Reinforcement Learning&lpar;From Scratch&rpar;](https://blog.yokumi.cn/2025/07/07/Game%20Theory%20X%20Reinforcement%20Learning(From%20Scratch)/)
 - [Deriving the Bellman Equation](https://blog.yokumi.cn/2025/07/04/Deriving%20the%20Bellman%20Equation/)
-- [博客美化记录](https://blog.yokumi.cn/2025/07/03/%E5%8D%9A%E5%AE%A2%E7%BE%8E%E5%8C%96%E8%AE%B0%E5%BD%95/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
