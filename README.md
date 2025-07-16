@@ -11,11 +11,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [ns-3 源码学习笔记&lpar;2&rpar;：RDMA 报文发送和接收过程](https://blog.yokumi.cn/2025/07/15/ns-3%20%E6%BA%90%E7%A0%81%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0(2)%EF%BC%9ARDMA%20%E6%8A%A5%E6%96%87%E5%8F%91%E9%80%81%E5%92%8C%E6%8E%A5%E6%94%B6%E8%BF%87%E7%A8%8B/)
 - [【论文阅读笔记】Congestion Control for Cross-Datacenter Networks](https://blog.yokumi.cn/2025/07/14/%E3%80%90%E8%AE%BA%E6%96%87%E9%98%85%E8%AF%BB%E7%AC%94%E8%AE%B0%E3%80%91Congestion%20Control%20for%20Cross-Datacenter%20Networks/)
 - [ns-3 源码学习笔记&lpar;1&rpar;：RDMA 的实现](https://blog.yokumi.cn/2025/07/13/ns-3%20%E6%BA%90%E7%A0%81%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0(1)%EF%BC%9ARDMA%20%E7%9A%84%E5%AE%9E%E7%8E%B0/)
 - [Linux 环境驯服 NS3 的记录](https://blog.yokumi.cn/2025/07/12/Linux%20%E7%8E%AF%E5%A2%83%E9%A9%AF%E6%9C%8D%20NS3%20%E7%9A%84%E8%AE%B0%E5%BD%95/)
 - [WSL2 折腾记录](https://blog.yokumi.cn/2025/07/12/WSL2%20%E6%8A%98%E8%85%BE%E8%AE%B0%E5%BD%95/)
-- [【论文阅读笔记】RDMA Transports in Datacenter Networks：Survey](https://blog.yokumi.cn/2025/07/11/%E3%80%90%E8%AE%BA%E6%96%87%E9%98%85%E8%AF%BB%E7%AC%94%E8%AE%B0%E3%80%91RDMA%20Transports%20in%20Datacenter%20Networks%EF%BC%9ASurvey/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
