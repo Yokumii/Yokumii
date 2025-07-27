@@ -11,11 +11,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [《药屋少女的呢喃》第二季完结个人杂谈](https://blog.yokumi.cn/2025/07/27/%E3%80%8A%E8%8D%AF%E5%B1%8B%E5%B0%91%E5%A5%B3%E7%9A%84%E5%91%A2%E5%96%83%E3%80%8B%E7%AC%AC%E4%BA%8C%E5%AD%A3%E5%AE%8C%E7%BB%93%E4%B8%AA%E4%BA%BA%E6%9D%82%E8%B0%88/)
 - [【论文阅读笔记】Congestion Control for Large-Scale RDMA Deployments](https://blog.yokumi.cn/2025/07/25/%E3%80%90%E8%AE%BA%E6%96%87%E9%98%85%E8%AF%BB%E7%AC%94%E8%AE%B0%E3%80%91Congestion%20Control%20for%20Large-Scale%20RDMA%20Deployments/)
 - [AgentSociety 简记](https://blog.yokumi.cn/2025/07/21/AgentSociety%20%E7%AE%80%E8%AE%B0/)
 - [【论文阅读笔记】BiCC：Bilateral Congestion Control in Cross-datacenter RDMA Networks](https://blog.yokumi.cn/2025/07/19/%E3%80%90%E8%AE%BA%E6%96%87%E9%98%85%E8%AF%BB%E7%AC%94%E8%AE%B0%E3%80%91BiCC%EF%BC%9ABilateral%20Congestion%20Control%20in%20Cross-datacenter%20RDMA%20Networks/)
 - [ns-3 源码学习笔记&lpar;7&rpar;：网络参数配置的设置和读取](https://blog.yokumi.cn/2025/07/18/ns-3%20%E6%BA%90%E7%A0%81%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0(7)%EF%BC%9A%E7%BD%91%E7%BB%9C%E5%8F%82%E6%95%B0%E9%85%8D%E7%BD%AE%E7%9A%84%E8%AE%BE%E7%BD%AE%E5%92%8C%E8%AF%BB%E5%8F%96/)
-- [ns-3 源码学习笔记&lpar;6&rpar;：网络流量模型的设置和读取](https://blog.yokumi.cn/2025/07/18/ns-3%20%E6%BA%90%E7%A0%81%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0(6)%EF%BC%9A%E7%BD%91%E7%BB%9C%E6%B5%81%E9%87%8F%E6%A8%A1%E5%9E%8B%E7%9A%84%E8%AE%BE%E7%BD%AE%E5%92%8C%E8%AF%BB%E5%8F%96/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
