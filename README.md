@@ -1,8 +1,10 @@
 <!-- dynamic typing effect 动态打字效果 -->
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&weight=500&lines=Hi👋,%20I'm%20Yokumi&center=true&size=40" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&weight=500&lines=Hi%2C+I%27m+Yokumi&center=true&size=30&" alt="Typing SVG" />
+</div>
 
+<div align="center">
 <picture>
   <img alt="acg-img" src="https://webp-pic.yokumi.cn/2025/08/20250804165001646.png" width="80%"/>
 </picture>
@@ -17,7 +19,9 @@
 <img src="https://komarev.com/ghpvc/?username=yokumii&label=Views&color=0e75b6&style=flat" alt="yokumii" />
 </div>
 
-![](https://github-profile-trophy.vercel.app/?username=Yokumii&no-bg=true&theme=tokyonight&title=-Reviews)
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Yokumii&no-bg=true&theme=tokyonight&title=-Reviews" alt="yokumii" />
+</div>
 
 ## About Me
 
