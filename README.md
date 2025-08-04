@@ -1,9 +1,9 @@
 <!-- dynamic typing effect 动态打字效果 -->
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&weight=500&lines=Hi👋, I'm Yokumi.&center=true&size=40" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&weight=500&lines=Hi👋, I'm Yokumi&center=true&size=40" alt="Typing SVG" />
 <picture>
-  <img alt="acg-img" src="https://webp-pic.yokumi.cn/2025/08/20250804165001646.png" />
+  <img alt="acg-img" src="https://webp-pic.yokumi.cn/2025/08/20250804165001646.png" width="80%"/>
 </picture>
 </div>
 
@@ -16,7 +16,7 @@
 <img src="https://komarev.com/ghpvc/?username=yokumii&label=Views&color=0e75b6&style=flat" alt="yokumii" />
 </div>
 
-![](https://github-profile-trophy.vercel.app/?username=Yokumii&no-bg=true&theme=aura&title=-Reviews)
+![](https://github-profile-trophy.vercel.app/?username=Yokumii&no-bg=true&theme=tokyonight&title=-Reviews)
 
 ## About Me
 
@@ -55,6 +55,6 @@
 
 <!-- GitHub 数据统计 -->
 <div align="center" >
-<img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=yokumii&hide_title=true&count_private=false&show_icons=true&theme=tokyonight&bg_color=ffffffff00&include_all_commits=true" />
-<img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yokumii&hide_title=true&layout=compact&count_private=false&show_icons=true&theme=tokyonight&bg_color=ffffffff00&include_all_commits=true" /><br><br>
+<img align="" height="150px" src="https://github-readme-stats.vercel.app/api?username=yokumii&hide_title=true&count_private=false&show_icons=true&theme=tokyonight&bg_color=ffffffff00&include_all_commits=true" />
+<img align="" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yokumii&hide_title=true&layout=compact&count_private=false&show_icons=true&theme=tokyonight&bg_color=ffffffff00&include_all_commits=true" /><br><br>
 </div>
