@@ -6,11 +6,9 @@
 
 <div align="center">
 <picture>
-  <img alt="acg-img" src="https://webp-pic.yokumi.cn/2025/08/20250804165001646.png" width="80%"/>
+  <img alt="acg-img" src="https://webp-pic.yokumi.cn/2025/08/20250804165001646.png" width="90%"/>
 </picture>
 </div>
-
-***👋 Hi here, I'm Yokumi.***
 
 <!-- profile logo 个人资料徽标 -->
 <div align="center">
@@ -25,6 +23,8 @@
 
 ## About Me
 
+***👋 Hi here, I'm Yokumi.***
+
 - 🏫 A student at School of Computer Science SCS, Beijing University of Posts and Telecommunications, a.k.a. BUPT or 明光村小学附属大学
 
 - 📝 I regularly write articles on [https://blog.yokumi.cn/](https://blog.yokumi.cn/)
@@ -34,12 +34,6 @@
 ## Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
-
-- [使用 Cloudflare R2 + WebP Cloud + PicGo 搭建你的图床](https://blog.yokumi.cn/2025/07/29/%E4%BD%BF%E7%94%A8%20Cloudflare%20R2%20+%20WebP%20Cloud%20+%20PicGo%20%E6%90%AD%E5%BB%BA%E4%BD%A0%E7%9A%84%E5%9B%BE%E5%BA%8A/)
-- [Hexo 博客访问优化记录](https://blog.yokumi.cn/2025/07/28/Hexo%20%E5%8D%9A%E5%AE%A2%E8%AE%BF%E9%97%AE%E4%BC%98%E5%8C%96%E8%AE%B0%E5%BD%95/)
-- [《药屋少女的呢喃》第二季完结个人杂谈](https://blog.yokumi.cn/2025/07/27/%E3%80%8A%E8%8D%AF%E5%B1%8B%E5%B0%91%E5%A5%B3%E7%9A%84%E5%91%A2%E5%96%83%E3%80%8B%E7%AC%AC%E4%BA%8C%E5%AD%A3%E5%AE%8C%E7%BB%93%E4%B8%AA%E4%BA%BA%E6%9D%82%E8%B0%88/)
-- [【论文阅读笔记】Congestion Control for Large-Scale RDMA Deployments](https://blog.yokumi.cn/2025/07/25/%E3%80%90%E8%AE%BA%E6%96%87%E9%98%85%E8%AF%BB%E7%AC%94%E8%AE%B0%E3%80%91Congestion%20Control%20for%20Large-Scale%20RDMA%20Deployments/)
-- [AgentSociety 简记](https://blog.yokumi.cn/2025/07/21/AgentSociety%20%E7%AE%80%E8%AE%B0/)
 
 <!-- BLOG-POST-LIST:END -->
 
