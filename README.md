@@ -34,11 +34,11 @@
 ## Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
+- [日笠佐仓闲话免谈 talk live vol. 2.5 个人 repo](https://blog.yokumi.cn/2025/08/23/%E6%97%A5%E7%AC%A0%E4%BD%90%E4%BB%93%E9%97%B2%E8%AF%9D%E5%85%8D%E8%B0%88%20talk%20live%20vol.%202.5%20%E4%B8%AA%E4%BA%BA%20repo/)
 - [ABM 建模基础 —— ODD 协议](https://blog.yokumi.cn/2025/08/11/ABM%20%E5%BB%BA%E6%A8%A1%E5%9F%BA%E7%A1%80%20%E2%80%94%E2%80%94%20ODD%20%E5%8D%8F%E8%AE%AE/)
 - [AI4SS 开源项目产研](https://blog.yokumi.cn/2025/08/08/AI4SS%20%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE%E4%BA%A7%E7%A0%94/)
 - [【论文阅读笔记】Revisiting Network Support for RDMA](https://blog.yokumi.cn/2025/08/05/%E3%80%90%E8%AE%BA%E6%96%87%E9%98%85%E8%AF%BB%E7%AC%94%E8%AE%B0%E3%80%91Revisiting%20Network%20Support%20for%20RDMA/)
 - [浅谈大型项目的模块化开发&lpar;Based on Python&rpar;](https://blog.yokumi.cn/2025/08/05/%E6%B5%85%E8%B0%88%E5%A4%A7%E5%9E%8B%E9%A1%B9%E7%9B%AE%E7%9A%84%E6%A8%A1%E5%9D%97%E5%8C%96%E5%BC%80%E5%8F%91(Based%20on%20Python)/)
-- [使用 Cloudflare R2 + WebP Cloud + PicGo 搭建你的图床](https://blog.yokumi.cn/2025/07/29/%E4%BD%BF%E7%94%A8%20Cloudflare%20R2%20+%20WebP%20Cloud%20+%20PicGo%20%E6%90%AD%E5%BB%BA%E4%BD%A0%E7%9A%84%E5%9B%BE%E5%BA%8A/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Connect with me
