@@ -25,11 +25,13 @@
 
 ***👋 Hi here, I'm Yokumi.***
 
-- 🏫 A student at School of Computer Science SCS, Beijing University of Posts and Telecommunications, a.k.a. BUPT or 明光村小学附属大学
+- 🏫 A student at School of Computer Science SCS, Beijing University of Posts and Telecommunications, a.k.a. BUPT
 
 - 📝 I regularly write articles on [https://blog.yokumi.cn/](https://blog.yokumi.cn/)
 
 - 📫 How to reach me [m2845687016@gmail.com](mailto:m2845687016@gmail.com)
+
+- <a href="https://blog.yokumi.cn/atom.xml" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="RSS" height="12" width="12" /></a> Connect with me [https://blog.yokumi.cn/atom.xml](https://blog.yokumi.cn/atom.xml)
 
 ## Blogs posts
 
@@ -41,18 +43,9 @@
 - [【论文阅读笔记】Revisiting Network Support for RDMA](https://blog.yokumi.cn/2025/08/05/%E3%80%90%E8%AE%BA%E6%96%87%E9%98%85%E8%AF%BB%E7%AC%94%E8%AE%B0%E3%80%91Revisiting%20Network%20Support%20for%20RDMA/)
 <!-- BLOG-POST-LIST:END -->
 
-## Connect with me
-<a href="https://blog.yokumi.cn/atom.xml" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="RSS" height="30" width="30" /></a>
-</p>
-
-## Languages and Tools
-
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="30" height="30"/> </a><a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="30" height="30"/> </a><a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" height="30"/> </a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="30" height="30"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="30" height="30"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="30" height="30"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="30" height="30"/> </a>
-
----
+## GitHub Stats
 
 <!-- GitHub 数据统计 -->
 <div align="center" >
-<img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=yokumii&hide_title=true&count_private=false&show_icons=true&theme=tokyonight&bg_color=ffffffff00&include_all_commits=true" />
-<img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yokumii&hide_title=true&layout=compact&count_private=false&show_icons=true&theme=tokyonight&bg_color=ffffffff00&include_all_commits=true" /><br><br>
+<img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=yokumii&hide_title=true&count_private=false&show_icons=true&theme=tokyonight&bg_color=000000&include_all_commits=true" />
 </div>
