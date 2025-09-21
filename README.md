@@ -36,11 +36,11 @@
 ## Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
+- [【论文整理】Error Correction for Data Center](https://blog.yokumi.cn/2025/09/20/Paper-compilation-Error-Correction-for-Data-Center/)
+- [前向纠错（FEC）技术调研](https://blog.yokumi.cn/2025/09/17/Research-on-Forward-Error-Correction-Technology/)
 - [Python 套件管理器 uv 使用介绍](https://blog.yokumi.cn/2025/09/05/Python%20%E5%8C%85%E7%AE%A1%E7%90%86%E5%99%A8%20uv%20%E4%BD%BF%E7%94%A8%E4%BB%8B%E7%BB%8D/)
 - [日笠佐仓闲话免谈 talk live vol. 2.5 个人 repo](https://blog.yokumi.cn/2025/08/23/%E6%97%A5%E7%AC%A0%E4%BD%90%E4%BB%93%E9%97%B2%E8%AF%9D%E5%85%8D%E8%B0%88%20talk%20live%20vol.%202.5%20%E4%B8%AA%E4%BA%BA%20repo/)
 - [ABM 建模基础 —— ODD 协议](https://blog.yokumi.cn/2025/08/11/ABM%20%E5%BB%BA%E6%A8%A1%E5%9F%BA%E7%A1%80%20%E2%80%94%E2%80%94%20ODD%20%E5%8D%8F%E8%AE%AE/)
-- [AI4SS 开源项目产研](https://blog.yokumi.cn/2025/08/08/AI4SS%20%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE%E4%BA%A7%E7%A0%94/)
-- [【论文阅读笔记】Revisiting Network Support for RDMA](https://blog.yokumi.cn/2025/08/05/%E3%80%90%E8%AE%BA%E6%96%87%E9%98%85%E8%AF%BB%E7%AC%94%E8%AE%B0%E3%80%91Revisiting%20Network%20Support%20for%20RDMA/)
 <!-- BLOG-POST-LIST:END -->
 
 ## GitHub Stats
