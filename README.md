@@ -36,11 +36,11 @@
 ## Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
-- [【论文整理】Long-haul RDMA](https://blog.yokumi.cn/2025/09/22/Paper-compilation-Long-haul-RDMA/)
+- [BUPT 计网实践不完全指北](https://blog.yokumi.cn/2025/10/03/An-Incomplete-Guide-to-BUPT-Computer-Networking-Practice/)
+- [【论文整理】Long-haul RDMA](https://blog.yokumi.cn/2025/09/24/Paper-compilation-Long-haul-RDMA/)
 - [【论文整理】Error Correction for Data Center](https://blog.yokumi.cn/2025/09/20/Paper-compilation-Error-Correction-for-Data-Center/)
 - [前向纠错（FEC）技术调研](https://blog.yokumi.cn/2025/09/17/Research-on-Forward-Error-Correction-Technology/)
 - [Python 套件管理器 uv 使用介绍](https://blog.yokumi.cn/2025/09/05/Python%20%E5%8C%85%E7%AE%A1%E7%90%86%E5%99%A8%20uv%20%E4%BD%BF%E7%94%A8%E4%BB%8B%E7%BB%8D/)
-- [日笠佐仓闲话免谈 talk live vol. 2.5 个人 repo](https://blog.yokumi.cn/2025/08/23/%E6%97%A5%E7%AC%A0%E4%BD%90%E4%BB%93%E9%97%B2%E8%AF%9D%E5%85%8D%E8%B0%88%20talk%20live%20vol.%202.5%20%E4%B8%AA%E4%BA%BA%20repo/)
 <!-- BLOG-POST-LIST:END -->
 
 ## GitHub Stats
