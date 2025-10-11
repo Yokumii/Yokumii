@@ -36,11 +36,11 @@
 ## Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Paper collection of AI training Traffic](https://blog.yokumi.cn/2025/10/10/Paper-collection-of-AI-training-Traffic/)
 - [BUPT 计网实践不完全指北](https://blog.yokumi.cn/2025/10/03/An-Incomplete-Guide-to-BUPT-Computer-Networking-Practice/)
-- [【论文整理】Long-haul RDMA](https://blog.yokumi.cn/2025/09/24/Paper-compilation-Long-haul-RDMA/)
-- [【论文整理】Error Correction for Data Center](https://blog.yokumi.cn/2025/09/20/Paper-compilation-Error-Correction-for-Data-Center/)
+- [Paper collection of Long-haul RDMA](https://blog.yokumi.cn/2025/09/24/Paper-collection-of-Long-haul-RDMA/)
+- [Paper collection of Error Correction for Data Center](https://blog.yokumi.cn/2025/09/20/Paper-collection-of-Error-Correction-for-Data-Center/)
 - [前向纠错（FEC）技术调研](https://blog.yokumi.cn/2025/09/17/Research-on-Forward-Error-Correction-Technology/)
-- [Python 套件管理器 uv 使用介绍](https://blog.yokumi.cn/2025/09/05/Python%20%E5%8C%85%E7%AE%A1%E7%90%86%E5%99%A8%20uv%20%E4%BD%BF%E7%94%A8%E4%BB%8B%E7%BB%8D/)
 <!-- BLOG-POST-LIST:END -->
 
 ## GitHub Stats
