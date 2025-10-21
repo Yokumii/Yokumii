@@ -36,11 +36,11 @@
 ## Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
+- [浅谈编译原理中的语法分析](https://blog.yokumi.cn/2025/10/19/Talk-about-Compilation-Principles-Syntax-Analysis/)
 - [Paper collection of AI training Traffic](https://blog.yokumi.cn/2025/10/10/Paper-collection-of-AI-training-Traffic/)
 - [BUPT 计网实践不完全指北](https://blog.yokumi.cn/2025/10/03/An-Incomplete-Guide-to-BUPT-Computer-Networking-Practice/)
 - [Paper collection of Long-haul RDMA](https://blog.yokumi.cn/2025/09/24/Paper-collection-of-Long-haul-RDMA/)
 - [Paper collection of Error Correction for Data Center](https://blog.yokumi.cn/2025/09/20/Paper-collection-of-Error-Correction-for-Data-Center/)
-- [前向纠错（FEC）技术调研](https://blog.yokumi.cn/2025/09/17/Research-on-Forward-Error-Correction-Technology/)
 <!-- BLOG-POST-LIST:END -->
 
 ## GitHub Stats
