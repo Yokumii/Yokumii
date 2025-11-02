@@ -36,11 +36,11 @@
 ## Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
+- [在 Linux 下编译安装 Dynamips 和 Dynagen 搭建 Cisco 实验环境](https://blog.yokumi.cn/2025/10/31/Setting-up-a-Cisco-Lab-on-Linux-using-Dynamips-and-Dynagen/)
+- [Paper collection of Social Media study](https://blog.yokumi.cn/2025/10/28/Paper-collection-of-Social-Media-study/)
 - [浅谈编译原理中的语法分析](https://blog.yokumi.cn/2025/10/19/Talk-about-Compilation-Principles-Syntax-Analysis/)
 - [Paper collection of AI training Traffic](https://blog.yokumi.cn/2025/10/10/Paper-collection-of-AI-training-Traffic/)
 - [BUPT 计网实践不完全指北](https://blog.yokumi.cn/2025/10/03/An-Incomplete-Guide-to-BUPT-Computer-Networking-Practice/)
-- [Paper collection of Long-haul RDMA](https://blog.yokumi.cn/2025/09/24/Paper-collection-of-Long-haul-RDMA/)
-- [Paper collection of Error Correction for Data Center](https://blog.yokumi.cn/2025/09/20/Paper-collection-of-Error-Correction-for-Data-Center/)
 <!-- BLOG-POST-LIST:END -->
 
 ## GitHub Stats
