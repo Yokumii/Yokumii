@@ -1,39 +1,34 @@
 <!-- dynamic typing effect 动态打字效果 -->
 
-<div align="center">
+<!--div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&weight=500&lines=Hi%2C+I%27m+Yokumi&center=true&size=30&" alt="Typing SVG" />
-</div>
+</div-->
 
-<div align="center">
-<picture>
-  <img alt="acg-img" src="https://webp-pic.yokumi.cn/2025/08/20250804165001646.png" width="90%"/>
-</picture>
-</div>
+### Hi there, I'm [Yokumi](https://blog.yokumi.cn/) 👋
 
-<!-- profile logo 个人资料徽标 -->
-<div align="center">
-<a href="https://blog.yokumi.cn"><img src="https://img.shields.io/badge/Website-YokumiのBlog-blue" /></a>&emsp;
-<!-- visitor statistics logo 访问量统计徽标 -->
-<img src="https://komarev.com/ghpvc/?username=yokumii&label=Views&color=0e75b6&style=flat" alt="yokumii" />
-</div>
+<img align="right" width="200" src="https://webp-pic.yokumi.cn/2025/12/20251204155535305.png">
 
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Yokumii&no-bg=true&theme=tokyonight&title=-Reviews" alt="yokumii" />
-</div>
+Yokumi, a student at School of Computer Science(SCS), Beijing University of Posts and Telecommunications, a.k.a. BUPT.
 
-## About Me
+He likes to dabble in a bit of everything.
 
-***👋 Hi here, I'm Yokumi.***
+He has a waifu `友利奈绪` from [Charlotte](https://zh.moegirl.org.cn/Charlotte) since 2015, and is also fan of her voice actress `Sakura Ayane(佐仓绫音, 樱小姐)`.
 
-- 🏫 A student at School of Computer Science SCS, Beijing University of Posts and Telecommunications, a.k.a. BUPT
+He likes sharing ideas and casually posts articles on his [blog](https://blog.yokumi.cn/)￼ — mostly just for fun.
 
-- 📝 I regularly write articles on [https://blog.yokumi.cn/](https://blog.yokumi.cn/)
+He used to be deep into ACGN, but nowadays he’s busier wrestling with real life.
 
-- 📫 How to reach me [m2845687016@gmail.com](mailto:m2845687016@gmail.com)
+---
 
-- <a href="https://blog.yokumi.cn/atom.xml" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="RSS" height="12" width="12" /></a> Connect with me [https://blog.yokumi.cn/atom.xml](https://blog.yokumi.cn/atom.xml)
+### 📫 Contact him
 
-## Blogs posts
+[![Email](https://img.shields.io/badge/Email-yokumi-blue?logo=mail.ru&style=flat-square)](mailto:m2845687016@gmail.com)
+
+[![Website](https://img.shields.io/badge/Website-FFA8BE?style=flat-square&logo=google-chrome&logoColor=FFFFFF&labelColor=FFA8BE)](https://blog.yokumi.cn/)
+
+---
+
+### Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
 - [Notes about Recommendation Systems](https://blog.yokumi.cn/2025/11/16/Notes-about-Recommendation-Systems/)
@@ -43,9 +38,15 @@
 - [Paper collection of AI training Traffic](https://blog.yokumi.cn/2025/10/10/Paper-collection-of-AI-training-Traffic/)
 <!-- BLOG-POST-LIST:END -->
 
-## GitHub Stats
+---
 
+### GitHub Stats
+
+<details>
 <!-- GitHub 数据统计 -->
 <div align="center" >
 <img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=yokumii&hide_title=true&count_private=false&show_icons=true&theme=tokyonight&bg_color=000000&include_all_commits=true" />
 </div>
+</details>
+
+
