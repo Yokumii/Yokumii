@@ -31,11 +31,11 @@ He used to be deep into ACGN, but nowadays he’s busier wrestling with real lif
 ### Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
+- [语义分析 复习](https://blog.yokumi.cn/2025/12/07/Notes-about-Semantic-Analysis/)
+- [语法制导翻译 复习](https://blog.yokumi.cn/2025/12/06/Notes-about-Syntax-Directed-Translation/)
+- [算法复习 —— 贪心法](https://blog.yokumi.cn/2025/12/04/Notes-about-Greedy-algorithm/)
 - [Notes about Recommendation Systems](https://blog.yokumi.cn/2025/11/16/Notes-about-Recommendation-Systems/)
 - [在 Linux 下编译安装 Dynamips 和 Dynagen 搭建 Cisco 实验环境](https://blog.yokumi.cn/2025/10/31/Setting-up-a-Cisco-Lab-on-Linux-using-Dynamips-and-Dynagen/)
-- [Paper collection of Social Media study](https://blog.yokumi.cn/2025/10/28/Paper-collection-of-Social-Media-study/)
-- [浅谈编译原理中的语法分析](https://blog.yokumi.cn/2025/10/19/Talk-about-Compilation-Principles-Syntax-Analysis/)
-- [Paper collection of AI training Traffic](https://blog.yokumi.cn/2025/10/10/Paper-collection-of-AI-training-Traffic/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
