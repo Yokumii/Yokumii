@@ -31,7 +31,7 @@ He used to be deep into ACGN, but nowadays he’s busier wrestling with real lif
 ### Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
-- [语义分析 复习](https://blog.yokumi.cn/2025/12/07/Notes-about-Semantic-Analysis/)
+- [算法复习 —— 动态规划](https://blog.yokumi.cn/2025/12/09/Notes-about-DP-algorithm/)
 - [语法制导翻译 复习](https://blog.yokumi.cn/2025/12/06/Notes-about-Syntax-Directed-Translation/)
 - [算法复习 —— 贪心法](https://blog.yokumi.cn/2025/12/04/Notes-about-Greedy-algorithm/)
 - [Notes about Recommendation Systems](https://blog.yokumi.cn/2025/11/16/Notes-about-Recommendation-Systems/)
