@@ -47,10 +47,8 @@ He used to be deep into ACGN, but nowadays he’s busier wrestling with real lif
 </div>
 
 <details>
-<!-- GitHub 数据统计 -->
-<div align="center" >
-<img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=yokumii&hide_title=true&count_private=false&show_icons=true&theme=tokyonight&bg_color=000000&include_all_commits=true" />
-</div>
+<p align="center">
+    <img height="150px" src="https://github-readme-stats-seven-psi-91.vercel.app/api?username=Yokumii&bg_color=00000000&theme=tokyonight&show_icons=true&commits_year=2025" />
+    <img height="150px" src="https://github-readme-stats-seven-psi-91.vercel.app/api/top-langs/?username=Yokumii&hide=perl,html,jupyter%20notebook,makefile,shell&layout=donut&size_weight=0.5&count_weight=0.5&theme=tokyonight&bg_color=00000000" />
+</p>
 </details>
-
-
