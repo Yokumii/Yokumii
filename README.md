@@ -34,8 +34,8 @@ He used to be deep into ACGN, but nowadays he’s busier wrestling with real lif
 - [算法复习 —— 动态规划](https://blog.yokumi.cn/2025/12/09/Notes-about-DP-algorithm/)
 - [语法制导翻译 复习](https://blog.yokumi.cn/2025/12/06/Notes-about-Syntax-Directed-Translation/)
 - [算法复习 —— 贪心法](https://blog.yokumi.cn/2025/12/04/Notes-about-Greedy-algorithm/)
+- [第一台 VPS 折腾小记](https://blog.yokumi.cn/2025/11/30/My-First-VPS-Setup-Journey/)
 - [Notes about Recommendation Systems](https://blog.yokumi.cn/2025/11/16/Notes-about-Recommendation-Systems/)
-- [在 Linux 下编译安装 Dynamips 和 Dynagen 搭建 Cisco 实验环境](https://blog.yokumi.cn/2025/10/31/Setting-up-a-Cisco-Lab-on-Linux-using-Dynamips-and-Dynagen/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
