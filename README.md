@@ -43,7 +43,7 @@ He used to be deep into ACGN, but nowadays he’s busier wrestling with real lif
 ### GitHub Stats
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Yokumii&no-bg=true&theme=tokyonight&title=-Reviews" alt="yokumii" />
+<img src="https://github-profile-trophy-jade-rho.vercel.app/?username=Yokumii&no-bg=true&theme=tokyonight&title=-Reviews" alt="yokumii" />
 </div>
 
 <details>
