@@ -31,11 +31,11 @@ He used to be deep into ACGN, but nowadays he’s busier wrestling with real lif
 ### Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
+- [算法复习 —— 回溯法](https://blog.yokumi.cn/2025/12/25/Notes-about-Backtracking-algorithm/)
 - [算法复习 —— 动态规划](https://blog.yokumi.cn/2025/12/09/Notes-about-DP-algorithm/)
 - [语法制导翻译 复习](https://blog.yokumi.cn/2025/12/06/Notes-about-Syntax-Directed-Translation/)
 - [算法复习 —— 贪心法](https://blog.yokumi.cn/2025/12/04/Notes-about-Greedy-algorithm/)
 - [第一台 VPS 折腾小记](https://blog.yokumi.cn/2025/11/30/My-First-VPS-Setup-Journey/)
-- [Notes about Recommendation Systems](https://blog.yokumi.cn/2025/11/16/Notes-about-Recommendation-Systems/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
