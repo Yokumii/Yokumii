@@ -31,11 +31,11 @@ He used to be deep into ACGN, but nowadays he’s busier wrestling with real lif
 ### Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
+- [MCP vs. Skill 旧瓶装新酒这一块](https://blog.yokumi.cn/2026/01/10/research/agent/notes-about-anthropic-mcp-skill/)
 - [《操作系统》复习](https://blog.yokumi.cn/2026/01/02/academic/others/review-for-operating-system/)
 - [《数据库系统原理》复习](https://blog.yokumi.cn/2025/12/28/academic/others/review-for-dataBase-system-concepts/)
 - [《算法设计与分析》复习](https://blog.yokumi.cn/2025/12/28/academic/others/review-for-design-and-analysis-of-algorithms/)
 - [算法复习 —— 分治法](https://blog.yokumi.cn/2025/12/27/algorithms/notes-about-divide-and-conquer/)
-- [算法复习 —— 递归方程的求解](https://blog.yokumi.cn/2025/12/27/algorithms/notes-about-recursion/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
