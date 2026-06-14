@@ -66,11 +66,11 @@
 ### 📝 Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
+- [AI 时代的软件工程基本功](https://blog.yokumi.cn/2026/06/12/development/project/principles-for-ai-coding/)
 - [2026.5 Live Repo](https://blog.yokumi.cn/2026/05/29/life/2026-5-live-repo/)
 - [Google Stitch 使用体验](https://blog.yokumi.cn/2026/05/24/research/agent/google-stitch/)
 - [代码智能体 benchmark 调研](https://blog.yokumi.cn/2026/04/30/research/agent/notes-about-coding-benchs/)
 - [在 MacBook 上互不干扰地使用有线/无线网络](https://blog.yokumi.cn/2026/04/25/development/config/macbook-ethernet-config/)
-- [MCP vs. Skill 旧瓶装新酒这一块](https://blog.yokumi.cn/2026/01/10/research/agent/notes-about-anthropic-mcp-skill/)
 <!-- BLOG-POST-LIST:END -->
 
 ### ⏳ Coding Stats
