@@ -11,7 +11,7 @@
        alt="Profile Views" />
 </h2>
 
-<table>
+<!-- <table>
 
 <tr>
 
@@ -40,7 +40,7 @@
 
 </td>
 </tr>
-</table>
+</table> -->
 
 ### 📫 Contact him
 
