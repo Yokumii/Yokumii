@@ -66,11 +66,11 @@
 ### 📝 Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
-- [2026.5 Live Repo](https://blog.yokumi.cn/2026/05/29/life/2026-5-live-repo/)
-- [在 MacBook 上互不干扰地使用有线/无线网络](https://blog.yokumi.cn/2026/04/25/development/config/macbook-ethernet-config/)
-- [MCP vs. Skill 旧瓶装新酒这一块](https://blog.yokumi.cn/2026/01/10/research/agent/notes-about-anthropic-mcp-skill/)
-- [浅谈编译原理——语法制导翻译篇](https://blog.yokumi.cn/2025/12/06/academic/notes-about-syntax-directed-translation/)
-- [第一台 VPS 折腾小记](https://blog.yokumi.cn/2025/11/30/development/vps/my-first-vps-setup-journey/)
+- [2026.5 Live Repo](https://blog.yokumi.cn/posts/2026-5-live-repo/)
+- [MCP vs. Skill 旧瓶装新酒这一块](https://blog.yokumi.cn/posts/notes-about-anthropic-mcp-skill/)
+- [浅谈编译原理——语法制导翻译篇](https://blog.yokumi.cn/posts/notes-about-syntax-directed-translation/)
+- [第一台 VPS 折腾小记](https://blog.yokumi.cn/posts/my-first-vps-setup-journey/)
+- [在 Linux 下编译安装 Dynamips 和 Dynagen 搭建 Cisco 实验环境](https://blog.yokumi.cn/posts/setting-up-a-cisco-lab-on-linux-using-dynamips-and-dynagen/)
 <!-- BLOG-POST-LIST:END -->
 
 ### ⏳ Coding Stats
