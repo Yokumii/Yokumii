@@ -44,7 +44,7 @@
 
 ### 📫 Contact him
 
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=FFFFFF)](mailto:yokumi0704@gmail.com)[![Telegram](https://img.shields.io/badge/Telegram-26A69A?style=for-the-badge&logo=telegram&logoColor=FFFFFF)](https://t.me/Yokumii)[![Blog](https://img.shields.io/badge/Blog-121013?style=for-the-badge&logo=blogger&logoColor=FFFFFF)](https://blog.yokumi.cn/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=FFFFFF)](mailto:mail@yokumi.cn)[![Telegram](https://img.shields.io/badge/Telegram-26A69A?style=for-the-badge&logo=telegram&logoColor=FFFFFF)](https://t.me/Yokumii)[![Blog](https://img.shields.io/badge/Blog-121013?style=for-the-badge&logo=blogger&logoColor=FFFFFF)](https://blog.yokumi.cn/)
 
 ### 💻 Development Environment / Web Browser
 
