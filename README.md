@@ -70,7 +70,7 @@
 - [MCP vs. Skill 旧瓶装新酒这一块](https://blog.yokumi.cn/posts/notes-about-anthropic-mcp-skill/)
 - [浅谈编译原理——语法制导翻译篇](https://blog.yokumi.cn/posts/notes-about-syntax-directed-translation/)
 - [第一台 VPS 折腾小记](https://blog.yokumi.cn/posts/my-first-vps-setup-journey/)
-- [在 Linux 下编译安装 Dynamips 和 Dynagen 搭建 Cisco 实验环境](https://blog.yokumi.cn/posts/setting-up-a-cisco-lab-on-linux-using-dynamips-and-dynagen/)
+- [Agent 推理范式](https://blog.yokumi.cn/posts/agent/agent-design-patterns/)
 <!-- BLOG-POST-LIST:END -->
 
 ### ⏳ Coding Stats
